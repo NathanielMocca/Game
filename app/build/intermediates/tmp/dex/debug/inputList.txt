@@ -1,0 +1,5 @@
+D:\Game\app\build\intermediates\classes\debug
+D:\Game\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-bb89c0b8148f5e6f0359b19a10f6f8864958d8b8.jar
+D:\Game\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-1a419052951a087b5dc9f5f99214c6e61eb854d2.jar
+D:\Game\app\build\intermediates\pre-dexed\debug\classes-feb7aa98388db43cc8e84513adf3eb035350ecee.jar
+D:\Game\app\build\intermediates\pre-dexed\debug\classes-892bf610b69809cfa5ac6cc4cb2c82294aa2b9bf.jar
